@@ -13,12 +13,6 @@ MajuMundurX
 ![](https://streak-stats.demolab.com/?user=Amirul987&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amirul987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ♟️ Play Chess With Me:
-<p align="center">
-  <a href="https://github.com/Amirul987/readme-chess/issues/new?title=Chess%3A+Move+&body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+change+the+title+or+body%21">
-    <img src="https://raw.githubusercontent.com/Amirul987/readme-chess/master/games/board.svg" alt="Chess Game" width="100%" />
-  </a>
-</p>
 
 # 🎮 Contribution Snake:
 <picture>
