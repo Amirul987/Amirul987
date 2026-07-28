@@ -21,5 +21,13 @@ MajuMundurX
   <img alt="github snake animation" src="https://raw.githubusercontent.com/Amirul987/Amirul987/output/github-snake.svg">
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="assets/pacman-contribution-graph.svg">
+</picture>
+
 ---
 [![](https://komarev.com/ghpvc/?username=Amirul987&icon=0&color=3)](https://visitcount.itsvg.in)
